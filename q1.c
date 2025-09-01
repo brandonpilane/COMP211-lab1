@@ -1,3 +1,6 @@
+// Question: Write a C program that asks the user to enter their name and age,
+// then prints your name, age.
+
 #include <stdio.h>
 
 int main(void) {

@@ -1,4 +1,4 @@
-// Write a C program that reads an integer from the user and determines whether
+// Question: Write a C program that reads an integer from the user and determines whether
 // it is even odd and display the result.
 
 #include <stdio.h>

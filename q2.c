@@ -1,4 +1,4 @@
-// question: Write a C program that prompts the user to enter two integers.
+// Question: Write a C program that prompts the user to enter two integers.
 // The program should compute and display: their sum, difference and product.
 
 #include <stdio.h>
